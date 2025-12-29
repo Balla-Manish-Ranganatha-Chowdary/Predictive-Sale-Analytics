@@ -2,6 +2,13 @@
 
 An interactive machine learning application for forecasting daily sales using time series analysis and regression models. Built with Streamlit for real-time visualization and predictions.
 
+## 🚀 Live Application
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictive-sale-analytics-bpvqbzs8d7qr4ykhaskdvs.streamlit.app/)
+
+🔗 (https://predictive-sale-analytics-bpvqbzs8d7qr4ykhaskdvs.streamlit.app/)
+
+
 ## 🎯 Overview
 
 This project implements a sales forecasting system that predicts future daily sales based on historical data from a retail store-item demand dataset. The application uses feature engineering techniques including lag features and rolling averages to capture temporal patterns and trends.
